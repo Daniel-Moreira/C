@@ -1,0 +1,98 @@
+﻿100 - The 3n + 1 problem
+101 - The Blocks Problem
+102 - Ecological Bin Packing
+103 - Stacking Boxes
+278 - Chess
+499 - What's The Frequency, Kenneth?
+608 - Counterfeit Dollar
+10038 - Jolly Jumpers
+637 - Booklet Printing
+161 - Traffic Lights
+454 - Anagrams
+11221 - Magic square palindromes.
+10945 - Mother bear
+401 - Palindromes
+10813 - Traditional BINGO
+10443 - Rock
+584 - Bowling
+11459 - Snakes and Ladders
+489 - Hangman Judge
+10284 - Chessboard in FEN
+696 - How Many Knights
+12247 - Jollo
+10646 - What is the Card?
+462 - Bridge Hand Evaluator
+11507 - Bender B. Rodríguez Problem
+11799 - Horror Dash
+11559 - Event Planning
+10114 - Loansome Car Buyer
+11172 - Relational Operator
+1062 - Containers
+732 - Anagrams by Stack
+673 - Parentheses Balance
+514 - Rails
+127 - "Accordian" Patience
+11495 - Bubbles and Buckets
+11462 - Age Sort
+10810 - Ultra-QuickSort
+612 - DNA Sorting
+299 - Train Swapping
+10258 - Contest Scoreboard
+10194 - Football (aka Soccer)
+146 - ID Codes
+594 - One Little, Two Little, Three Little Endians
+482 - Permutation Arrays
+104 - Arbitrage
+11450 - Wedding shopping
+11292 - Dragon of Loowater
+10341 - Solve It
+10360 - Rat Attack
+11727 - Cost Cutting
+11616 - Roman Numerals
+11547 - Automatic Answer
+11498 - Division of Nlogonia
+11340 - Newspaper
+11223 - O: dah dah dah!
+11150 - Cola
+11044 - Searching for Nessy
+10921 - Find the Telephone
+10812 - Beat the Spread!
+10703 - Free spots
+10683 - The decadary watch
+10528 - Major Scales
+10420 - List of Conquests
+10363 - Tic Tac Toe
+10281 - Average Speed
+10141 - Request for Proposal
+10082 - WERTYU
+941 - Permutations
+837 - Light and Transparencies
+739 - Soundex Indexing
+661 - Blowing Fuses
+573 - The Snail
+483 - Word Scramble
+394 - Mapmaker
+272 - TEX Quotes
+10137 - The Trip
+10189 - Minesweeper
+159 - Word Crosses
+156 - Ananagrams
+543 - Goldbach's Conjecture
+105 - The Skyline Problem
+1150 - On Storing Clothes
+121 - Pipe Fitters
+541 - Error Correction
+573 - ClockHands
+12356 - Army Buddies
+1061 - Consanguine Calculations
+556 - Amazing
+12085 - Mobile Casanova
+10920 - Spiral Tap
+10855 - Rotated square
+11581 - Grid Successors
+
+195 - Anagram
+403 - Postscript
+11173 - Grey Codes
+11800 - Determine the Shape
+12060 - All Integer Average

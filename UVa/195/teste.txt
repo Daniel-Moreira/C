@@ -1,0 +1,7 @@
+abcd
+abc d
+abdc
+ab dc - separa
+ac db - acha o maior mais longe
+ac bd - reverse
+acbd
