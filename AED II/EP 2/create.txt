@@ -1,0 +1,3 @@
+create
+entrada.txt
+10
